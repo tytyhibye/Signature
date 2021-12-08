@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FFMetaProMedium';
+    src: url('https://cdn.rawgit.com/tytyhibye/Signature/blob/main/font/FFMetaProMedium.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tytyhibye/Signature/blob/main/font/FFMetaProMedium.woff') format('woff'),
+         url('https://cdn.rawgit.com/tytyhibye/Signature/blob/main/font/FFMetaProMedium.TTF') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+
+}
