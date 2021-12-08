@@ -8,3 +8,14 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'FFMetaProBold';
+    src: url('https://cdn.rawgit.com/tytyhibye/Signature/blob/main/font/FFMetaProBold.eot');
+    src: url('https://cdn.rawgit.com/tytyhibye/Signature/blob/main/font/FFMetaProBold.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tytyhibye/Signature/blob/main/font/FFMetaProBold.woff') format('woff'),
+         url('https://cdn.rawgit.com/tytyhibye/Signature/blob/main/font/FFMetaProBold.TTF') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+
+
